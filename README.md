@@ -7,7 +7,11 @@
 - 😄 Pronouns: He/His
 -->
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FGabrielMartins&layout=compact&langs_count=7&theme=highcontrast"/>    ![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex" height="170" alt="languages graph"/>
+</div>
+
+![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast)
 
 ## Tecnológias de aprendizado
 
@@ -17,4 +21,5 @@
   <img aling="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img aling="center" alt"c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img aling="center" alt"python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img aling="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
