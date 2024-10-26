@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriiell.m/)
 
-- 🔭 Looking for a job in the IT field...
+- 🔭 Looking for a job in the IT field/web security...
 - 🌱 Studying C, html, css, java script and python
 - 😄 Pronouns: He/His
 -->
