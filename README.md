@@ -7,4 +7,6 @@
 - 😄 Pronouns: Ele/Dele
 -->
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FGabrielMartins&layout=compact&langs_count=7&theme=dracula"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast)
+ 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FGabrielMartins&layout=compact&langs_count=7&theme=highcontrast"/>
