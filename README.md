@@ -1,4 +1,6 @@
-## Olá Sou Gabriel 👋
+## Olá Sou Gabriel 👋🤳
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriiell.m/)
 
 - 🔭 Em busca de um emprego na area de TI...
 - 🌱 Estudando C,html,css,java script e python
