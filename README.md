@@ -10,7 +10,6 @@
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=86401" height="170" alt="languages graph"/>
 
-
 ![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast&tex&cache_seconds=86401)
 
 ## Operating Systems & Cloud
