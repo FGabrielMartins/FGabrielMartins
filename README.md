@@ -12,6 +12,10 @@
 
 ![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast&tex&cache_seconds=8641)
 
+## Frameworks
+<div styles="display: inline_block"><br>
+  <img aling="center" alt"Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
 ## Operating Systems & Cloud
 <div styles="display: inline_block"><br>
   <img aling="center" alt"Kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -28,6 +32,7 @@
   <img aling="center" alt"c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img aling="center" alt"python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img aling="center" alt"Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
 ## Tudo começou com um Hello Word!! 🎓
