@@ -29,12 +29,17 @@
 
 # My skills
 
+badges
+<div style="display: inline_block" size="100px" ><br>
+  <img aling="center" alt"html5" src="https://images.credly.com/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob?style=for-the-badge&logo=html5&logoColor=white" height="150" width="150"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 Frameworks
 <div styles="display: inline_block"><br>
   <img aling="center" alt"Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 IDEs
 <div align="left">
