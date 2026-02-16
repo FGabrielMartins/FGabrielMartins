@@ -2,8 +2,8 @@
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriiell.m/)-->
 
-- 🔭 Looking for a job in the IT field/web security...
-- 🌱 Studying C, html, css, java script and python
+- 🔭 Looking for a job in the IT field/computer engineering...
+- 🌱 Studying C, html, css, java script, python...
 - 😄 Pronouns: He/His
 
 
@@ -59,7 +59,6 @@ Work Technologies
   <img aling="center" alt"c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img aling="center" alt"python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img aling="center" alt"Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
 ## Tudo começou com um Hello Word!! 🎓
