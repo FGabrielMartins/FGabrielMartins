@@ -1,4 +1,4 @@
-## Hello, I am Gabriel 👋🤳
+# Hello, I am Gabriel 👋🤳
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriiell.m/)-->
 
@@ -47,13 +47,18 @@ IDEs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
+Hardware
+<div>
+    <img aling="center" alt"Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+    <img aling="center" alt"Espressif" src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
+</div>
+
 Operating Systems & Cloud
 <div styles="display: inline_block"><br>
   <img aling="center" alt"Kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img aling="center" alt"Kali linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img aling="center" alt"Kali linux" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
-
 
 Work Technologies
 
