@@ -1,5 +1,6 @@
 # Hello, I am Gabriel 👋🤳
 
+
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriiell.m/)-->
 
 - 🔭 Looking for a job in the IT field/computer engineering...
@@ -26,15 +27,19 @@
 ![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast&tex&cache_seconds=8640)
 -->
 
-
 # My skills
+<div style="display: inline_block" align="center">
+<img src="Micros.png" min-width="350px" max-width="350px" width="350px"  alt="Micros Processadores">
+</div>
 
 badges
 <div style="display: inline_block" size="100px" ><br>
   <img aling="center" alt"html5" src="https://images.credly.com/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob?style=for-the-badge&logo=html5&logoColor=white" height="150" width="150"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
+<div>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
+</div>
 
 <!--Frameworks
 <div styles="display: inline_block"><br>
