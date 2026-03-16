@@ -13,7 +13,7 @@
 
 <div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FGabrielMartins&theme=radical&mode=weekly" />
-    <img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabasDev&layout=compact&langs_count=7&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=8640" height="160" alt="languages graph"/>
 </div>
 
 &nbsp;
@@ -22,10 +22,11 @@
 
 <!--
 ![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/FGabrielMartins&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=8640" height="160" alt="languages graph"/>
+
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabasDev&layout=compact&langs_count=7&theme=radical"/>
 -->
 
-![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast&tex&cache_seconds=8640)
+<!--![FGabrielMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabrielMartins&show_icons=true&theme=highcontrast&tex&cache_seconds=8640)-->
 
 
 # My skills
