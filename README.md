@@ -13,6 +13,9 @@
 
 <div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FGabrielMartins&theme=radical&mode=weekly" />
+</div>
+
+<div style="alingn="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=8640" height="160" alt="languages graph"/>
 </div>
 
