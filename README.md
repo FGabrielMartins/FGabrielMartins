@@ -16,7 +16,7 @@
 </div>
 
 <div style="alingn="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=8640" height="160" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FGabrielMartins&hide=jupyter%20notebook,tex&cache_seconds=40" height="160" alt="languages graph"/>
 </div>
 
 &nbsp;
